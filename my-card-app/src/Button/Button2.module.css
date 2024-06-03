@@ -1,0 +1,16 @@
+
+
+.bot{
+  background-color: rgb(255, 138, 230);
+  width: 500px;
+  height: 30px;
+  cursor: pointer;
+  border: 1px solid black;
+  border-radius: 6px;
+}
+
+.bot:hover{
+  background-color: white;
+  transition: 500ms;
+}
+
