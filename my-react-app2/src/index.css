@@ -1,0 +1,9 @@
+.correct{
+  color: rgb(20, 173, 28);
+  font-size: larger;
+}
+
+.incorrect{
+  color: rgb(219, 29, 29);
+  font-size: larger;
+}

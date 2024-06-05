@@ -11,13 +11,14 @@ function Student(props){
     
   );
 }
-
+//this object is checking if the value is a rigt property
 Student.propTypes =  {
   name: PropTypes.string,
   age: PropTypes.number,
   isStudent: PropTypes.bool
 }
 
+//this object is about the default mode
 Student.defaultProps = {
   name: "Guess",
   age: "none",
